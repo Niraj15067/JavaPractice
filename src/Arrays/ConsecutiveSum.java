@@ -5,7 +5,7 @@ public class ConsecutiveSum {
 		int arr[] = { 1, 4, 2, 5, 7, 8, 6 };
 		int sum = calculate(arr, 3);
 		System.out.println(sum);
-		//hello 
+		//hello world
 	}
 
 	private static int calculate(int[] arr, int w) {
